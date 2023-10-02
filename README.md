@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web and App developments..
 - 🌱 I’m currently doing projects in Core PHP | Magento | React | React Native | NodeJs...
 - 💞️ I’m looking to collaborate on Ecommerce | PWA | Native Web Apps Projects
-- 📫 You can reach me on jithu.business@gmail.com
+- 📫 You can reach me on webdeveloper.jithu@gmail.com
