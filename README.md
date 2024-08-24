@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web and App developments..
 - 🌱 I’m currently doing projects in  Magento | Wordpress | React | Astro | Svelte | AlpineJs
 - 💞️ I’m looking to collaborate on Ecommerce | PWA | Native Web Apps Projects
-- 📫 You can reach me on webdeveloper.jithu@gmail.com
+- 📫 You can reach me on jithu.developer@gmail.com
